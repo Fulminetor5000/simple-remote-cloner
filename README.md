@@ -9,5 +9,5 @@ If the script doesn't work properly, probably you have reached the storage limit
 (on windows, Documents -> Arduino) and change with a bigger value (I recommend at least 300) the constant "RAWBUF" placed in IRremoteInt around the line 40,
 more info googling "irremote rawbuf".
 
-## My Arduino physical scheme
+## Arduino physical scheme example
 ![alt text](https://github.com/Fulminetor5000/simple_remote_cloner/blob/master/example.jpg?raw=true)
