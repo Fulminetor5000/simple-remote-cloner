@@ -1,7 +1,7 @@
 
 /*********************************************************************************
 
- simple_remote_cloner
+ simple-remote-cloner
  version 1.0.0 - 17 June 2019
   
  Written with love by: https://github.com/Fulminetor5000
