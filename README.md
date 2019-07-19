@@ -10,4 +10,4 @@ If the script doesn't work properly, probably you have reached the storage limit
 more info googling "irremote rawbuf".
 
 ## Arduino physical scheme example
-![alt text](https://github.com/Fulminetor5000/simple_remote_cloner/blob/master/example.jpg?raw=true)
+![alt text](example.jpg)
